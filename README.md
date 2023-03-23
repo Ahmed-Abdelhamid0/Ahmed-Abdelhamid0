@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Abdelhamid0](https://github.com/Ahmed-Abdelhamid0)
 
-- 💬 Ask me about **Datr,Flutter**
+- 💬 Ask me about **Datr and Flutter**
 
 - 📫 How to reach me **aabdulhamed363@gmail.com**
 
