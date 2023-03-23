@@ -11,7 +11,7 @@
 
 - 📄 See My CV here https://drive.google.com/file/d/1-tEXdPncWg9PDBsMs1Lg25C8IYVNUauk/view?usp=share_link
 
-- <img src="Pictures/dev.png" />
+
 ![dev](https://user-images.githubusercontent.com/121736377/227209053-1b9b91cf-e736-4933-844b-879fa5d720eb.png)
 
 <h3 align="left">Connect with me:</h3>
