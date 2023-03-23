@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelhamid 👨‍💻</h1>
-<h3 align="center">A Passionate Mobile Application Developer from Egypt</h3> ![pngegg (1)](https://user-images.githubusercontent.com/121736377/227211229-96518aa1-ae2a-4e24-b991-08f324bd4665.png)
+<h3 align="center">A Passionate Mobile Application Developer from Egypt</h3>
+![pngegg (1)](https://user-images.githubusercontent.com/121736377/227211596-6babcd39-6578-44f2-93d6-c81c29625238.png)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Abdelhamid0](https://github.com/Ahmed-Abdelhamid0)
 
