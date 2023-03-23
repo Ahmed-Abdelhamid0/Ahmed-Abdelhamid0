@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aabdulhamed363@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vr9RRyFhoX-G0dhrZeGfsCerI1hb18pl/view?usp=share_link](https://drive.google.com/file/d/1Vr9RRyFhoX-G0dhrZeGfsCerI1hb18pl/view?usp=share_link)
+- 📄 See My CV here [https://drive.google.com/file/d/1Vr9RRyFhoX-G0dhrZeGfsCerI1hb18pl/view?usp=share_link](https://drive.google.com/file/d/1Vr9RRyFhoX-G0dhrZeGfsCerI1hb18pl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
