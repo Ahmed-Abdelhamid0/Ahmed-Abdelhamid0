@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Abdelhamid0](https://github.com/Ahmed-Abdelhamid0)
 
-- <h3 align="center">Read The Description and See The Demo Video For The Application </h3>
+- 📃Read The Description and 🎥See The Demo Video For The Application
 
 - 💬 Ask me about **Datr and Flutter**
 
