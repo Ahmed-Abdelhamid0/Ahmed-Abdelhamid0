@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelhamid</h1>
 <h3 align="center">A Passionate Mobile Application Developer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/Ahmed-Abdelhamid0/Ahmed-Abdelhamid0](github.com/Ahmed-Abdelhamid0/Ahmed-Abdelhamid0)
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Abdelhamid0](https://github.com/Ahmed-Abdelhamid0)
 
 - 💬 Ask me about **Datr,Flutter**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/7am0odx99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7am0odx99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-abdelhamid-05657625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelhamid-05657625a" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed abdelhamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed abdelhamid" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed.abdelhamid.5209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.abdelhamid.5209" height="30" width="40" /></a>
 <a href="https://instagram.com/7am0odx99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7am0odx99" height="30" width="40" /></a>
 </p>
 
