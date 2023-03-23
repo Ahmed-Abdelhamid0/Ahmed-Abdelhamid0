@@ -11,8 +11,8 @@
 
 - 📄 See My CV here https://drive.google.com/file/d/1-tEXdPncWg9PDBsMs1Lg25C8IYVNUauk/view?usp=share_link
 
-- <img src="C:\Users\DELL\Pictures/dev.png"  style="width:128px;height:128px;">
-
+- <img src="Pictures/dev.png" />
+-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/7am0odx99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7am0odx99" height="30" width="40" /></a>
