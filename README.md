@@ -11,7 +11,7 @@
 
 - 📄 See My CV here https://drive.google.com/file/d/1-tEXdPncWg9PDBsMs1Lg25C8IYVNUauk/view?usp=share_link
 -
-- <img src="https://sun9-86.userapi.com/impf/m_RI5W86dD8uP4zTL1gzcYXm2vJSr075NSEWsw/XI5geQR3RMQ.jpg?size=604x336&quality=95&sign=d4feba4027f769d92af6e76b41c65712&type=album" style="width:300px;height:250px;">
+- <img src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" style="width:300px;height:250px;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
