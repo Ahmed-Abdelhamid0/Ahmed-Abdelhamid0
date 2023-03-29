@@ -7,7 +7,7 @@
 
 - 📃Read The Description and 🎥See The Demo Video For The Application📱
 
-- 💬 Ask me about **Datr and Flutter**
+- 💬 Ask me about **Dart and Flutter**
 
 - 📫 How to reach me **aabdulhamed363@gmail.com**
 
