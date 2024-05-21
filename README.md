@@ -16,8 +16,6 @@
 - 📄 See My CV here https://drive.google.com/file/d/1PwNeujFS9yLvbS-G_i82hDLpfA2JAPlS/view?usp=drivesdk
 
 <h3 align="left">Connect With Me:</h3>
-<a href=" https://www.linkedin.com/in/ahmed-abdulhamid-445660217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
-target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelhamid-05657625a" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.abdelhamid.5209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.abdelhamid.5209" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
