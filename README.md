@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdelhamid 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Abdelhamid </h1>
 <h3 align="center">Software Developer</h3>
 <h3 align="center">Mobile Application Developer</h3>
 <h3 align="center">Dart & Flutter</h3>
